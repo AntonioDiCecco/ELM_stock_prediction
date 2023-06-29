@@ -6,3 +6,16 @@ The ELM has been regularized in a fashion novel to the literature. This involves
 
 The second regularization yields a model that is almost linear, while the third one helps in reducing the oscillations in the prediction. 
 
+## Author
+
+This project is authored by Antonio Di Cecco, created on 29/06/2023.
+
+## License
+
+This project is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+[![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+This code is available for use with reference to the author. However, it may not be used for commercial purposes or resold.
+
+
