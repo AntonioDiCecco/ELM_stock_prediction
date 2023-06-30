@@ -2,11 +2,11 @@
 
 A project focusing on ELM (Extreme Learning Machine) stock prediction.
 
-The ELM has been regularized in a fashion novel to the literature. This involves using an `L2` regularization plus a residual, inspired by the well-known Theta model, but presented in a more generalized form. This approach also considers the minimization of both RMS (Root Mean Square) correlation and the correlation between the target and prediction. 
+The ELM has been regularized in a fashion novel to the literature. This involves using an `L2` regularization plus a residual, inspired by the well-known Theta model, but presented in a more generalized form. This approach also considers the minimization of both RMS (Root Mean Square) error and the correlation between the target and prediction. 
 
-The second regularization yields a model that is almost linear, while the third one helps in reducing the oscillations in the prediction. 
+The Theta-model-type residual yields a model that is most stable and capable in the extrapolation regime, while the correlation-type regularization helps in reducing the temporal oscillation in the predictions. 
 
-The system has proved to be highly effective on Forex and high-speed trading.
+The system has proved to be highly effective on Forex and high-speed trading where it finds highly nonlinear interactions at the speed of a simple linear regression.
 
 
 ## Author
