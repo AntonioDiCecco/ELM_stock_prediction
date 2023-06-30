@@ -6,6 +6,9 @@ The ELM has been regularized in a fashion novel to the literature. This involves
 
 The second regularization yields a model that is almost linear, while the third one helps in reducing the oscillations in the prediction. 
 
+The system has proved to be highly effective on Forex and high-speed trading.
+
+
 ## Author
 
 This project is authored by Antonio Di Cecco, created on 29/06/2023.
